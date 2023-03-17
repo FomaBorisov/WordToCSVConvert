@@ -1,5 +1,5 @@
-using Microsoft.Office.Interop.Word;
-using Microsoft.Office.Interop.Excel;
+using Word = Microsoft.Office.Interop.Word;
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace WordToCSVConvert
 {
